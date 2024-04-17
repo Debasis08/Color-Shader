@@ -1,0 +1,14 @@
+:root {
+
+    background-color: rgba(215, 226, 143, 0.338);
+    /* height: 100vh; */
+    overflow: auto;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+  }
